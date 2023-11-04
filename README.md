@@ -7,6 +7,7 @@ Can be located in most of the houses in dustin.
 
 ### Metal Bat
 ![title](./assets/Orange%20house.png "Orange house containing the metal bat")
+
 Orange house containing Metal Bat.
 
 ![title](./assets/Metal%20bat.png "Metal Bat on table")
