@@ -44,6 +44,7 @@ The red house can be found in the "residential" area of dustin. Left side, third
 Construction site the Sledgehammer is found in
 
 ![title](./assets/Sledgehammer.png "One of few Sledgehammer locations")
+
 One of few sledge hammer locations inside the construction site
 
 
