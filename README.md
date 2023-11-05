@@ -123,6 +123,7 @@ Spear located near the abandoned mines.
 This is the temple, where the 2 temple sword spawns are.
 
 ![title](./assets/Temple%20Sword.png "Image of 1 of 2 temple sword spawns")
+
 This is 1 of 2 temple sword spawns.
 
 ## Forest
@@ -174,4 +175,5 @@ Near the cave entrance, deep in the woods, find a ramp leading upward, to the mo
 At the top you will find "the pit stop" shop, go inside.
 
 ![title](./assets/Hammer.png "Hammer Spawn location")
+
 Inside, near the cash register, you will find a hammer for sale for only 36 bux.
